@@ -2,12 +2,14 @@
 ## 问题一
 __Analyze the three product data sets provided to identify, describe, and support with mathematical evidence, meaningful quantitative and/or qualitative patterns, relationships, measures, and parameters within and between star ratings, reviews, and helpfulness ratings that will help Sunshine Company succeed in their three new online marketplace product offerings.
 分析提供的三个产品数据集，以数学证据来鉴定，描述和支持有意义的定量和/或定性模式，关系，测度和参数。这些将在星级，评论和帮助等级之内和之间进行。__
+
 简而言之，就是数据的处理，把产品数据运用数学语言描述出来。可以自己筛选一定的指标构成因变量与自变量，例如可以把帮助等级构造成因变量，星级和评价构造成自变量。
 对于星级评价这种非负计数型变量，最常采用的模型是泊松回归。但泊松分布最大的特点之一就是方差与均值相等，但对于存在过度离势的变量而言，其方差大于均值，与泊松回归的特点相悖，所以泊松回归不能很好地解决。（可以适当说明下）常用的模型之一就是负二项回归。
 
 ## 问题二
 __A. Identify data measures based on ratings and reviews that are most informative for Sunshine Company to track, once their three products are placed on sale in the online marketplace.
 A. 一旦三种产品在在线市场上出售后，就可以根据评级和评论确定阳光公司的最佳测量度。__
+
 即拟合问题。最佳测量度，即自变量，评级和评论，即因变量。可以利用神经网络的方法拟合出自变量与因变量的关系。除了神经网络，还可以采用偏最小二乘回归的方法。结论一定要说清楚，即最佳测量度的具体定义是什么，还有评级和评论是怎么影响它的。
 
 __B. Identify and discuss time-based measures and patterns within each data set that might suggest that a product’s reputation is increasing or decreasing in the online marketplace.
