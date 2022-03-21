@@ -10,7 +10,7 @@ __Analyze the three product data sets provided to identify, describe, and suppor
 __A. Identify data measures based on ratings and reviews that are most informative for Sunshine Company to track, once their three products are placed on sale in the online marketplace.
 A. 一旦三种产品在在线市场上出售后，就可以根据评级和评论确定阳光公司的最佳测量度。__
 
-即拟合问题。最佳测量度，即自变量，评级和评论，即因变量。可以利用神经网络的方法拟合出自变量与因变量的关系。除了神经网络，还可以采用偏最小二乘回归的方法。结论一定要说清楚，即最佳测量度的具体定义是什么，还有评级和评论是怎么影响它的。
+即拟合问题。最佳测量度，即因变量，评级和评论，即自变量。可以利用神经网络的方法拟合出自变量与因变量的关系。除了神经网络，还可以采用偏最小二乘回归的方法。结论一定要说清楚，即最佳测量度的具体定义是什么，还有评级和评论是怎么影响它的。
 
 __B. Identify and discuss time-based measures and patterns within each data set that might suggest that a product’s reputation is increasing or decreasing in the online marketplace.
 在每个数据集中识别并讨论基于时间的度量和模式，这些度量和模式可能表明产品在在线市场中的声誉在上升或下降。__
