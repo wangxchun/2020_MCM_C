@@ -26,5 +26,10 @@ D. 特定星级会引起更多评论吗？ 例如，在看到一系列低星级�
 __E. Are specific quality descriptors of text-based reviews such as ‘enthusiastic’,‘disappointed’, and others, strongly associated with rating levels?
  E。 诸如“热情”，“失望”之类的描述是否与其他的得分紧密相连？__
  此题为自然语言处理与聚类分析。可以先对词语进行聚类分析。
+ 
+ ##问题三
+__Write a one- to two-page letter to the Marketing Director of Sunshine Company summarizing your team’s analysis and results. Include specific justification(s) for the result that your team most confidently recommends to the Marketing Director.
+写一两页的信给阳光公司的市场总监，总结您团队的分析和结果。包括针对您的团队最有信心地推荐给市场总监的结果的具体理由。__
+
 
 
